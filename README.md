@@ -18,7 +18,7 @@ const gitalk = new Gitalk({
 gitalk.render('gitalk-container')
 
 </script>
-<script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次
 
