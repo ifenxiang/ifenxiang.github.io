@@ -12,7 +12,7 @@ i分享
 const gitalk = new Gitalk({
   clientID: 'Ov23liGYWFHbbq39bY7l',
   clientSecret: '443c92236c1a3bd2af8ff53017a907dd393348cd',
-  repo: 'airports',      // The repository of store comments,
+  repo: 'ifenxiang.github.io',      // The repository of store comments,
   owner: 'ifenxiang',
   admin: ['ifenxiang'],
   id: location.pathname,      // Ensure uniqueness and length less than 50
