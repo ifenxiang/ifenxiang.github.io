@@ -168,7 +168,3 @@ const gitalk = new Gitalk({
 gitalk.render('gitalk-container')
 
 </script>
-<<<<<<< HEAD
-=======
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
->>>>>>> cfcb6cada46f0dedbf0e5aa6f5db0d150efebbd2
