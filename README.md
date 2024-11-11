@@ -2,7 +2,7 @@
 
 长期免费订阅: [一键导入](https://subsub.surge.sh/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgo4sharing%2Fsub%2Fmain%2Fsub.yaml)
 
-更多机场请到 https://t.me/s/go4sharing
+更多机场请到 [https://t.me/s/go4sharing](https://t.me/s/go4sharing)
 
 欢迎投稿 ~ ~ ~
 
@@ -20,7 +20,7 @@
 
 白嫖码: `白嫖`
 
-注册地址: https://i.fei.best/#/login?code=7FdSiRQY
+注册地址: [https://i.fei.best/#/login?code=7FdSiRQY](https://i.fei.best/#/login?code=7FdSiRQY)
 
 ### 动力港
 200G/月, 70个节点
@@ -29,9 +29,9 @@
 
 > 进群获取白嫖码
 
-官方群: https://t.me/dlg365
+官方群: [https://t.me/dlg365](https://t.me/dlg365)
 
-注册地址: https://site01.dongligang.me/#/register?code=RuDAQYp7
+注册地址: [https://site01.dongligang.me/#/register?code=RuDAQYp7](https://site01.dongligang.me/#/register?code=RuDAQYp7)
 
 ### 九毛九机场✈️
 500G/月, 15个节点
@@ -40,9 +40,9 @@
 
 > 进群获取白嫖码
 
-官方群: https://t.me/jiumaojiu_chat
+官方群: [https://t.me/jiumaojiu_chat](https://t.me/jiumaojiu_chat)
 
-注册地址: https://app.lwjyj.com/#/register?code=AlcUuZIH
+注册地址: [https://app.lwjyj.com/#/register?code=AlcUuZIH](https://app.lwjyj.com/#/register?code=AlcUuZIH)
 
 ### 三瓜云
 50G/月, 12个节点
@@ -51,9 +51,9 @@
 
 进群发送 `我爱三瓜云` 获取白嫖码
 
-官方群: https://t.me/sanguayun
+官方群: [https://t.me/sanguayun](https://t.me/sanguayun)
 
-注册地址: https://snangua.com/#/register?code=zydft5pw
+注册地址: [https://snangua.com/#/register?code=zydft5pw](https://snangua.com/#/register?code=zydft5pw)
 
 ### 狮云
 1T/月, 13个节点
@@ -62,18 +62,18 @@
 
 > 进群获取白嫖码
 
-官方群: https://t.me/cloudlion_chat
+官方群: [https://t.me/cloudlion_chat](https://t.me/cloudlion_chat)
 
-注册地址: https://app.cloudlion.me/#/register?code=ybiLMSYW
+注册地址: [https://app.cloudlion.me/#/register?code=ybiLMSYW](https://app.cloudlion.me/#/register?code=ybiLMSYW)
 
 ### Kei Network
 100G/月, 9个节点
 
 <img src='README/assets/image-3.png' class='speed' />
 
-官方群: https://t.me/keimix
+官方群: [https://t.me/keimix](https://t.me/keimix)
 
-注册地址: https://my.kei.one/#/register?code=GYcXldon
+注册地址: [https://my.kei.one/#/register?code=GYcXldon](https://my.kei.one/#/register?code=GYcXldon)
 
 ### 富强机场
 50G/月, 16个节点
@@ -81,9 +81,9 @@
 <img src='README/assets/image-4.png' class='speed' />
 
 白嫖码: `fq`
-官方群: https://t.me/fqjc_group
+官方群: [https://t.me/fqjc_group](https://t.me/fqjc_group)
 
-注册地址: https://fqjc.xyz/#/register?code=NeC06yzp
+注册地址: [https://fqjc.xyz/#/register?code=NeC06yzp](https://fqjc.xyz/#/register?code=NeC06yzp)
 
 ### 白嫖机场
 50G/月, 15个节点
@@ -91,9 +91,9 @@
 <img src='README/assets/image-6.png' class='speed' />
 
 白嫖码: `白嫖机场`
-官方群: https://t.me/BPJC_ORG
+官方群: [https://t.me/BPJC_ORG](https://t.me/BPJC_ORG)
 
-注册地址: https://xn--mesv7f5toqlp.org/#/login?code=qsulnfEC
+注册地址: [https://xn--mesv7f5toqlp.org/#/login?code=qsulnfEC](https://xn--mesv7f5toqlp.org/#/login?code=qsulnfEC)
 
 ## 性价比机场
 
@@ -102,18 +102,18 @@
 
 <img src='README/assets/image-11.png' class='speed' />
 
-官方群: https://t.me/acyun1
+官方群: [https://t.me/acyun1](https://t.me/acyun1)
 
-注册地址: https://swacyun.yydsii.com/index.php#/register?code=gtec3f2H
+注册地址: [https://swacyun.yydsii.com/index.php#/register?code=gtec3f2H](https://swacyun.yydsii.com/index.php#/register?code=gtec3f2H)
 
 ### 🎃小南瓜
 5.99元/年, 每月150G, 15个节点
 
 <img src='README/assets/image-8.png' class='speed' />
 
-官方群: https://t.me/xiaonanguacloud
+官方群: [https://t.me/xiaonanguacloud](https://t.me/xiaonanguacloud)
 
-注册地址: https://minizz.online/#/register?code=oblMIhzq
+注册地址: [https://minizz.online/#/register?code=oblMIhzq](https://minizz.online/#/register?code=oblMIhzq)
 
 ## 优质机场
 
@@ -122,18 +122,18 @@
 
 <img src='README/assets/image-11.png' class='speed' />
 
-官方群: https://t.me/miaolianyun
+官方群: [https://t.me/miaolianyun](https://t.me/miaolianyun)
 
-注册地址: https://mly01.miaolianyun.my/#/register?code=soSx277r
+注册地址: [https://mly01.miaolianyun.my/#/register?code=soSx277r](https://mly01.miaolianyun.my/#/register?code=soSx277r)
 
 ### 极速云
 9.9元100G/月, 80+节点
 
 <img src='README/assets/image-10.png' class='speed' />
 
-官方群: https://t.me/jisuyunchat
+官方群: [https://t.me/jisuyunchat](https://t.me/jisuyunchat)
 
-注册地址: https://w1.lypyf.com/#/register?code=AWqhYEii
+注册地址: [https://w1.lypyf.com/#/register?code=AWqhYEii](https://w1.lypyf.com/#/register?code=AWqhYEii)
 
 <style>
 .speed {
