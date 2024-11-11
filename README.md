@@ -137,7 +137,7 @@
 
 <style>
 .speed {
-  max-width: 500px;
+  max-width: 300px;
 }
 </style>
 <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
